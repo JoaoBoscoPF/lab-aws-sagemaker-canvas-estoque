@@ -13,4 +13,6 @@ Na segunda versão, podemos analisar que o Avg. wQL é 0.455, ou seja, está mai
 A terceira versão do estoque pode ser vista aqui: <img src = "/datasets/Modelo de Estoque - Versão 3.png"> 
 
 Para a terceira versão , tentei tirar a coluna de FLAG_PROMOCAO para ver se o modelo ficava mais bem treinado e com métricas superiores, porém não obtive sucesso. Além disso, fiz a previsão nesta versão de um produto em específico(1000), seguem os resultados: 
-<img src = "/datasets/Previsao - Versão 3.png">
+<img src = "/datasets/Previsão - Versão 3.png">
+
+Assim sendo, conclui-se o meu desafio de projeto! Obrigado por acompanhar meu raciocínio!
