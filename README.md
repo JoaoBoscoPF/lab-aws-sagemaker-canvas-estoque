@@ -1,3 +1,7 @@
 # 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Olá, sou João Bosco Pedrosa Filho e esse é meu desafio de projeto do Bootcamp Nexa - ML para iniciantes na AWS disponibilizado pela DIO. O objetivo do desafio é fazer um  modelo preditivo de um estoque utilizando o SageMaker Canvas, disponibilizado pela AWS. Para o desafio, poderiam ser gerados dados para a análise do estoque ou utilizar algum dos datasets disponibilizados pela própria DIO. Eu optei por utilizar um dataset disponibilizado pela DIO, que foi o "dataset-1000-com-preco-promocional-e-renovacao-estoque.csv", pois me pareceu o modelo mais interessante a analisar. Eu optei por fazer 3 versões desse dataset, em que a primeira seria uma build rápida, que levou 15 minutos, para analisar o modelo de forma mais rápida, o segundo foi a standard build para ter uma visão mais aprofundada e o terceiro foi uma tentativa de melhora do standard build.
+
+A primeira versão do estoque pode ser vista aqui: <img src = "/datasets/Modelo de Estoque - Versão 1.png"> 
+A segunda versão do estoque pode ser vista aqui: <img src = "/datasets/Modelo de Estoque - Versão 2.png"> 
+A terceira versão do estoque pode ser vista aqui: <img src = "/datasets/Modelo de Estoque - Versão 3.png"> 
